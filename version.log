@@ -1,6 +1,6 @@
-    Version 9.6 Stable
+    Version 9.8 Stable
     ===================
-    VERSION 9.6 RELEASE
+    VERSION 9.8 RELEASE
     ===================
     CHANGES: 02/07/2016
     ===================
@@ -20,6 +20,10 @@
     =================== 
      - Code Optimization
     CHANGES: 06/07/2016
+    =================== 
+    =================== 
+     - Code Optimization
+    CHANGES: 10/07/2016
     =================== 
      - Optimize Help menu
      - Enjoy!
